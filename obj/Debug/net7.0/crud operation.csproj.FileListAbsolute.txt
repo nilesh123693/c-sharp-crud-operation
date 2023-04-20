@@ -1,0 +1,54 @@
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/appsettings.Development.json
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/appsettings.json
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/crud operation.staticwebassets.runtime.json
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/crud operation
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/crud operation.deps.json
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/crud operation.runtimeconfig.json
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/crud operation.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/crud operation.pdb
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/crud operation.csproj.AssemblyReference.cache
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/crud operation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/crud operation.AssemblyInfoInputs.cache
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/crud operation.AssemblyInfo.cs
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/crud operation.csproj.CoreCompileInputs.cache
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/crud operation.MvcApplicationPartsAssemblyInfo.cache
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/crud operation.RazorAssemblyInfo.cache
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/crud operation.RazorAssemblyInfo.cs
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/staticwebassets/msbuild.crud operation.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/staticwebassets/msbuild.build.crud operation.props
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.crud operation.props
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.crud operation.props
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/staticwebassets.build.json
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/staticwebassets.development.json
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/scopedcss/bundle/crud operation.styles.css
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/scopedcss/projectbundle/crud operation.bundle.scp.css
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/crud operation.dll
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/refint/crud operation.dll
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/crud operation.pdb
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/crud operation.genruntimeconfig.cache
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/ref/crud operation.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/Google.Protobuf.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/MySql.Data.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nilesh/Projects/crud operation/crud operation/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/nilesh/Projects/crud operation/crud operation/obj/Debug/net7.0/crud operation.csproj.CopyComplete
